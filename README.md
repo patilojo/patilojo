@@ -21,7 +21,7 @@
 
 
 
-<h2>⚡️ Mi Linkedin , hablemos </h2>
+<h2>⚡️ Mi Linkedin , hablemos 😉 </h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/patricialojozubeldia/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></p>
 
-<h2>⚡️ Links de mis proyectos</h2>
+
