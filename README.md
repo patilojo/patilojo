@@ -1,5 +1,11 @@
 <h1>Hola👋, Soy Pati Lojo </h1>
-<p>Una apasionada de los datos, los analisis y la estadistica</p>
+<p>📊 Los números y los análisis siempre han sido mi vida. Las clases de matemáticas eran un juego para mí. Tras estudiar Gestión Comercial y Marketing, comencé a trabajar en el mundo de las ventas en distintos sectores, y allí siempre destacaba por mi análisis de la situación: por qué no cumplíamos las métricas o cómo mejorar los procesos para alcanzar los KPIs.
+
+📈 Después de más de 15 años en el sector comercial, decidí dar un nuevo rumbo a mi carrera profesional, y estudié un bootcamp de Full Stack Developer. Fue en este curso donde descubrí el fascinante mundo del análisis de datos. Aunque el desarrollo web me permitió adquirir habilidades técnicas valiosas, fue gracias a ello que me di cuenta de que mi verdadera pasión reside en el análisis y la gestión de datos. Esta experiencia me abrió los ojos a un mundo de oportunidades, y supe que quería dedicarme plenamente a ello.
+
+💡 Actualmente estoy estudiando un máster en Business Intelligence, y finalmente puedo decir que he encontrado el camino que realmente me motiva. Estoy emocionada de poder aplicar mis conocimientos y habilidades en un ámbito que me entusiasma tanto. Con esta nueva etapa profesional, sé que puedo aprovechar mi experiencia en análisis y mejora de procesos para generar un impacto real. ¡Estoy más motivada que nunca y lista para seguir creciendo!
+
+🔍 Estoy buscando nuevas oportunidades como Analista de Datos en España, donde pueda aplicar mis habilidades y seguir desarrollándome profesionalmente. Si buscas a alguien con una pasión innata por los datos y una sólida experiencia en análisis y mejora de procesos, no dudes en contactarme.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
