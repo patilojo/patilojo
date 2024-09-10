@@ -6,7 +6,7 @@
 💡 Actualmente estoy estudiando un máster en Business Intelligence, y finalmente puedo decir que he encontrado el camino que realmente me motiva. Estoy emocionada de poder aplicar mis conocimientos y habilidades en un ámbito que me entusiasma tanto. Con esta nueva etapa profesional, sé que puedo aprovechar mi experiencia en análisis y mejora de procesos para generar un impacto real. ¡Estoy más motivada que nunca y lista para seguir creciendo!
 
 🔍 Estoy buscando nuevas oportunidades como Analista de Datos en España, donde pueda aplicar mis habilidades y seguir desarrollándome profesionalmente. Si buscas a alguien con una pasión innata por los datos y una sólida experiencia en análisis y mejora de procesos, no dudes en contactarme.</p>
-<h2>🚀 Languages que conozco, siempre en busca de mejorar</h2>
+<h2>🚀 Lenguages que conozco, siempre en busca de mejorar</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
@@ -34,4 +34,5 @@
 <h2>⚡️ Mi Linkedin , hablemos 😉 </h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/patricialojozubeldia/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></p>
 
+<h2>⚡️ Si prefieres la vía convencional 😉 </h2> <p>📞 +34 606 46 16 52</p> <p>✉️ patricialojo86@gmail.com</p>
 
