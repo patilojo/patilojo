@@ -19,6 +19,16 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 
+<h2>⚡️Link a mis proyectos 😉 </h2>
+<ul>
+  <li>
+    <p><a href="https://github.com/patilojo/Dashboard_gestion_tickets/">Dashboard gestión tickets</a></p>
+  </li>
+  <li>
+    <a href="https://github.com/patilojo/Dashboard-Clinica-Panda/">Dashboard Clínica Panda</a>
+  </li>
+</ul>
+
 
 
 <h2>⚡️ Mi Linkedin , hablemos 😉 </h2>
