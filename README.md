@@ -24,11 +24,14 @@
 <h2>⚡️Link a mis proyectos 😉 </h2>
 <ul>
   <li>
-    <p><a href="https://github.com/patilojo/Dashboard_gestion_tickets/">Dashboard gestión tickets</a></p>
+    <a href="https://github.com/patilojo/Dashboard_gestion_tickets/">Dashboard gestión tickets</a>
   </li>
   <li>
     <a href="https://github.com/patilojo/Dashboard-Clinica-Panda/">Dashboard Clínica Panda</a>
   </li>
+   <li>
+    <a href="https://github.com/patilojo/Carga-Modelado-y-Limpieza-de-Datos-con-SQL-">Carga, Modelado y limpieza de datos con SQL</a>
+  </li> 
 </ul>
 
 
