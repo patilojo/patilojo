@@ -32,6 +32,10 @@
    <li>
     <a href="https://github.com/patilojo/Carga-Modelado-y-Limpieza-de-Datos-con-SQL-">Carga, Modelado y limpieza de datos con SQL</a>
   </li> 
+    <li>
+    <a href="https://github.com/patilojo/Analisis-emisiones-Co2-">Análisis emisiones Co2 Python y Pandas</a>
+  </li> 
+  
 </ul>
 
 
