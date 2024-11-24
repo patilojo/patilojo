@@ -38,7 +38,7 @@
     <li>
     <a href="https://github.com/patilojo/Analisis-emisiones-Co2-">Análisis emisiones Co2 Python y Pandas</a>
   </li> 
-  https://github.com/patilojo/An-lisis-INE-crecimiento-poblaci-n
+ 
 </ul>
 
 
